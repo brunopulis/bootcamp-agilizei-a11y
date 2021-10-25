@@ -1,0 +1,26 @@
+{
+  "name": "agilizei-bootcamp",
+  "version": "1.0.0",
+  "description": "Agilizei Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "Bruno Pulis <brunopulis@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "axe-core": "4.3.3",
+    "cypress": "^8.6.0",
+    "cypress-axe": "0.13.0"
+  }
+}
